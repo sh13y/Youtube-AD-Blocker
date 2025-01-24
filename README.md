@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Modern YouTube Ad Blocker
+# 🛡️ Simple YouTube Ad Blocker
 
 > Because life's too short to watch "Skip Ad in 5...4...3..." for the 42nd time today
 
@@ -151,5 +151,5 @@ If this project helped you skip an ad, consider:
 Made with 💻 by developers who got tired of reaching for the "Skip Ad" button while eating snacks
 
 *Remember: Time saved from ads = More time for cat videos* 😺
-```
+
 
