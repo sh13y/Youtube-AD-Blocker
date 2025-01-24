@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>YouTube Ad Blocker</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header with logo -->
+        <div class="header">
+            <div class="logo">
+                <img src="assets/icon-48.png" alt="Logo">
+                <h1>YouTube Ad Blocker</h1>
+            </div>
+            <!-- Toggle switch -->
+            <label class="switch">
+                <input type="checkbox" id="toggleButton" checked>
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <!-- Stats card -->
+        <div class="stats-card">
+            <div class="counter-container">
+                <div class="counter" id="adsBlocked">0</div>
+                <div class="counter-label">Ads Blocked</div>
+            </div>
+            <div class="time-saved">
+                <div class="time" id="timeSaved">0</div>
+                <div class="time-label">Minutes Saved</div>
+            </div>
+        </div>
+
+        <!-- Action buttons -->
+        <div class="actions">
+            <a href="https://github.com/sh13y/youtube-ad-blocker" target="_blank" class="button github">
+                <img src="assets/github.svg" alt="GitHub">
+                Star on GitHub
+            </a>
+            <a href="https://www.buymeacoffee.com/sh13y" target="_blank" class="button donate">
+                ☕ Buy me a coffee
+            </a>
+        </div>
+
+        <!-- Status -->
+        <div class="status">
+            <div class="status-dot active"></div>
+            <span>Protection Active</span>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html> 
