@@ -62,12 +62,12 @@ A sophisticated Chrome extension that makes YouTube ads disappear faster than yo
 ## 🚀 Installation
 
 ### From Chrome Web Store
-"Want it from the Chrome Web Store? Well..."
-
-Me: *checks wallet* 🔍
-Wallet: *laughs in empty* 😂
-Chrome Store: "That'll be $5" 🤑
-Me: "Best I can do is manual installation" 💁‍♂️
+> "Want it from the Chrome Web Store? Well..."  
+>  
+> Me: *checks wallet* 🔍  
+> Wallet: *laughs in empty* 😂  
+> Chrome Store: "That'll be $5" 🤑  
+> Me: "Best I can do is manual installation" 💁‍♂️  
 
 ### Manual Installation (The Free Way™)
 
